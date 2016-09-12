@@ -1,0 +1,26 @@
+{
+  "name": "formsy-react-materialize",
+  "version": "0.0.0",
+  "description": "A Formsy compatibility wrapper for react-materialize form components",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritchardjonathan/formsy-react-materialize.git"
+  },
+  "author": "Jonathan Pritchard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pritchardjonathan/formsy-react-materialize/issues"
+  },
+  "homepage": "https://github.com/pritchardjonathan/formsy-react-materialize#readme",
+  "dependencies": {
+    "formsy-react": "^0.18.1",
+    "react": "^15.3.1",
+    "react-materialize": "^0.16.4"
+  }
+}
