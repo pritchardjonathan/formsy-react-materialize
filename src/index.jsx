@@ -1,0 +1,1 @@
+export FormsyText from './FormsyText';
