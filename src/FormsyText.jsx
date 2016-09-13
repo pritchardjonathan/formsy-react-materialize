@@ -71,8 +71,6 @@ const FormsyText = React.createClass({
     if (this.props.onKeyDown) this.props.onKeyDown(event, event.currentTarget.value);
   },
 
-  setMuiComponentAndMaybeFocus: setMuiComponentAndMaybeFocus,
-
   render() {
     const {
       defaultValue, // eslint-disable-line no-unused-vars
