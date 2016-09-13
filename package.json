@@ -1,6 +1,6 @@
 {
   "name": "formsy-react-materialize",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A Formsy compatibility wrapper for react-materialize form components",
   "files": [
     "lib",
