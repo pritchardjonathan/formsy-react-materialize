@@ -1,6 +1,6 @@
 {
   "name": "formsy-react-materialize",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Formsy compatibility wrapper for react-materialize form components",
   "files": [
     "lib",
@@ -25,6 +25,9 @@
   },
   "homepage": "https://github.com/pritchardjonathan/formsy-react-materialize#readme",
   "dependencies": {
+    "keycode": "^2.1.0"
+  },
+  "peerDependencies": {
     "formsy-react": "^0.18.1",
     "react": "^15.3.1",
     "react-materialize": "^0.16.4"
